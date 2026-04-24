@@ -1,0 +1,7 @@
+2026 Gilded Guardian - Josiah Norton
+This repository contains my reflection and supporting materials for my participation in
+the 2026 Gilded Guardian, a cyber defense and offensive operations exercise held in
+March 2026. I competed as part of a four-person team, working to neutralize an
+autonomous cruise missile swarm system by exploiting its distributed consensus protocol. 
+My primary contributions were in traffic analysis, protocol reverse
+engineering, and Python-based exploit development targeting the swarm's RAFT-based authentication system.
